@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+mistralai==0.4.2
+faiss-cpu
+numpy
